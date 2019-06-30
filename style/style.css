@@ -1,7 +1,19 @@
-form {
+.block {
     width: 30%;
     margin: 10% auto;
     background-color: #eae6e6;
     padding: 50px;
     border-radius: 10px;
+}
+
+.form-text {
+    color: red;
+}
+
+#load {
+    display: none;
+}
+
+#cabinet{
+    display: none;
 }
